@@ -1,97 +1,51 @@
 {
-  "project_info": {
-    "project_number": "916137491005",
-    "project_id": "iburiwayati1-cda5c",
-    "storage_bucket": "iburiwayati1-cda5c.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:916137491005:android:ebac15dcdde2129e64c854",
-        "android_client_info": {
-          "package_name": "com.fake_video_call_dev.malaysia.girlfried"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA-arAViW1R9bF_JqG7VqxwpVMmfSSLIog"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 10,
+      "initialize_sdk":"107355779x",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
       }
-    },
+   ],
+
+  "More":
+  [
     {
-      "client_info": {
-        "mobilesdk_app_id": "1:916137491005:android:97b6c7f022f6359164c854",
-        "android_client_info": {
-          "package_name": "com.pnymertua.fake_video_call_dev.japanese.video.girlfried"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA-arAViW1R9bF_JqG7VqxwpVMmfSSLIog"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:916137491005:android:1fb54bce61cf787964c854",
-        "android_client_info": {
-          "package_name": "com.pnymertua.fake_video_call_dev.vietnam.girlfriends"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA-arAViW1R9bF_JqG7VqxwpVMmfSSLIog"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
+      "id":1,
+      "title":"Ludo King",
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     }
   ],
-  "configuration_version": "1"
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Ludo King",
+      "image_url":"file:///android_asset/mine.webp",
+      "video_url":"footbal",
+      "voice_url":"dosa_membawa_keburukan.mp3"
+    }
+  ]
+
 }
