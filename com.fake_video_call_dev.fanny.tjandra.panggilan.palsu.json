@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "916137491005",
+    "project_id": "iburiwayati1-cda5c",
+    "storage_bucket": "iburiwayati1-cda5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916137491005:android:ebac15dcdde2129e64c854",
+        "android_client_info": {
+          "package_name": "com.fake_video_call_dev.malaysia.girlfried"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-arAViW1R9bF_JqG7VqxwpVMmfSSLIog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916137491005:android:97b6c7f022f6359164c854",
+        "android_client_info": {
+          "package_name": "com.pnymertua.fake_video_call_dev.japanese.video.girlfried"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-arAViW1R9bF_JqG7VqxwpVMmfSSLIog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916137491005:android:1fb54bce61cf787964c854",
+        "android_client_info": {
+          "package_name": "com.pnymertua.fake_video_call_dev.vietnam.girlfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-arAViW1R9bF_JqG7VqxwpVMmfSSLIog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916137491005-m0uo8s6q4kimhhh18tpuahva1jo1ji0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
